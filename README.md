@@ -17,21 +17,21 @@ Aplikasi desktop **Katalog Produk** berbasis **Java 17**, **JavaFX 21**, **Maven
 ### Fitur Update Produk
 
 1. **Pilih produk yang akan diedit**
-   ![Pilih Edit](screenshots/update-1-pilih-edit.png)
+   ![Pilih Edit](screenshots/pilih-edit.png)
 
 2. **Ubah data lalu klik Update**
-   ![Ubah Data](screenshots/update-2-ubah-data.png)
+   ![Ubah Data](screenshots/ubah-data.png)
 
 3. **Data produk berhasil diperbarui di katalog**
-   ![Hasil Update](screenshots/update-3-hasil.png)
+   ![Hasil Update](screenshots/hasil.png)
 
 ### Fitur Hapus Produk
 
 1. **Pilih produk lalu konfirmasi hapus**
-   ![Pilih Hapus](screenshots/hapus-1-pilih.png)
+   ![Pilih Hapus](screenshots/pilih.png)
 
 2. **Produk terhapus dari katalog**
-   ![Hasil Hapus](screenshots/hapus-2-hasil2.png)
+   ![Hasil Hapus](screenshots/hasil2.png)
 
 ---
 
